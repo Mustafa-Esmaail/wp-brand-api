@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Brand API
-Plugin URI: https://github.com/Mustafa-Esmaail/wp-Brand-Category-clone
+Plugin URI: https://github.com/Mustafa-Esmaail/wp-brand-api
 Description: Custom API Brand with product Category id .
 Version: 1.0
 Author: Mustafa Esmaail
